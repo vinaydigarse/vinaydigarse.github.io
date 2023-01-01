@@ -365,7 +365,7 @@ body {
 }
 
 .services .content .card .service-icon {
-  color: #3a6cf4;
+  color: #48cef7;
   font-size: 8em;
   text-align: center;
   transition: transform 0.5s ease;
@@ -380,7 +380,7 @@ body {
 }
 
 .services .content .card .info h3 {
-  color: #3a6cf4;
+  color: #48cef7;
   font-size: 1.2em;
   font-weight: 700;
   margin: 10px;
@@ -455,7 +455,7 @@ body {
 }
 
 .contact .content .row .card .contact-icon {
-  color: #3a6cf4;
+  color: #48cef7;
   font-size: 4em;
   text-align: center;
   transition: transform 0.5s ease;
@@ -519,7 +519,7 @@ body {
 
 .contact-form .input-box .send-btn {
   color: #fff;
-  background: #3a6cf4;
+  background: #48cef7;
   display: inline-block;
   font-size: 1.1em;
   font-weight: 500;
@@ -532,7 +532,7 @@ body {
 }
 
 .contact-form .input-box .send-btn:hover {
-  background: #235bf6;
+  background: #48cef7;
 }
 
 .footer {
@@ -553,7 +553,7 @@ body {
 }
 
 .footer p a {
-  color: #3a6cf4;
+  color: #48cef7;
   font-weight: 600;
   text-decoration: none;
 }
@@ -574,12 +574,14 @@ body {
   header .navigation.active {
     z-index: 888;
     position: fixed;
-    background: #fff;
+    background-color: #000016 ;
     top: 0;
     right: 0;
-    width: 380px;
-    height: 100%;
+    /* width: 150px; */
+    /* height: 200px; */
+    border-radius: 8px;
     display: flex;
+    margin-top: 52px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
@@ -588,7 +590,7 @@ body {
   }
 
   header .navigation a {
-    color: #000;
+    color: rgb(255, 255, 255);
     font-size: 1.2em;
     margin: 10px;
     padding: 0 20px;
@@ -601,14 +603,15 @@ body {
   }
 
   header .navigation a:hover {
-    background: #3a6cf4;
-    color: #fff;
-    transition: 0.3s ease;
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    border-radius: 6px;
+    /* transition: 0.3s ease; */
   }
 
   .menu-btn {
     position: absolute;
-    background: url(images/menu.png) no-repeat;
+    background: url(https://cdn-icons-png.flaticon.com/128/5358/5358649.png) no-repeat;
     background-size: 30px;
     background-position: center;
     width: 40px;
@@ -621,11 +624,12 @@ body {
 
   .menu-btn.active {
     z-index: 999;
-    background: url(images/close.png) no-repeat;
-    background-size: 25px;
+    background: url(https://cdn-icons-png.flaticon.com/128/463/463612.png) no-repeat;
+    background-size: 30px;
     background-position: center;
     transition: 0.3s ease;
-    filter: invert(1);
+    /* filter: invert(1); */
+    /* background-color: red; */
   }
 
   section {
@@ -678,8 +682,8 @@ body {
 .scrollToTop-btn {
   z-index: 999;
   position: fixed;
-  background: #3a6cf4;
-  color: #fff;
+  background: #48cef7;
+  color: rgb(241, 223, 223);
   width: 45px;
   height: 45px;
   right: 0;
