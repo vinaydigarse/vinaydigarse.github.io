@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5e2f7f4b.css",
-    "main.js": "/static/js/main.a04cb4de.js",
+    "main.js": "/static/js/main.4104f6ba.js",
     "static/media/Web capture_13-5-2023_82314_anthropologie-clone-fo1h.vercel.app.jpeg": "/static/media/Web capture_13-5-2023_82314_anthropologie-clone-fo1h.vercel.app.2107c2e803484b3e6677.jpeg",
     "static/media/Web capture_13-5-2023_82955_civil-kettle-7397.vercel.app.jpeg": "/static/media/Web capture_13-5-2023_82955_civil-kettle-7397.vercel.app.a27ead38b69330ac87c9.jpeg",
     "static/media/Vinay_Digarse_Resume.pdf": "/static/media/Vinay_Digarse_Resume.3d6992e6477a027326d7.pdf",
@@ -10,10 +10,10 @@
     "static/media/IMG_20221029_122923qww-removebg-preview (1).png": "/static/media/IMG_20221029_122923qww-removebg-preview (1).48b7c1e025d36212ca7c.png",
     "index.html": "/index.html",
     "main.5e2f7f4b.css.map": "/static/css/main.5e2f7f4b.css.map",
-    "main.a04cb4de.js.map": "/static/js/main.a04cb4de.js.map"
+    "main.4104f6ba.js.map": "/static/js/main.4104f6ba.js.map"
   },
   "entrypoints": [
     "static/css/main.5e2f7f4b.css",
-    "static/js/main.a04cb4de.js"
+    "static/js/main.4104f6ba.js"
   ]
 }
