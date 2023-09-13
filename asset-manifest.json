@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.136a1c3b.css",
-    "main.js": "/static/js/main.4a7ef066.js",
+    "main.css": "/static/css/main.a754f685.css",
+    "main.js": "/static/js/main.674314bc.js",
     "static/media/Web capture_13-5-2023_82314_anthropologie-clone-fo1h.vercel.app.jpeg": "/static/media/Web capture_13-5-2023_82314_anthropologie-clone-fo1h.vercel.app.2107c2e803484b3e6677.jpeg",
     "static/media/Web capture_13-5-2023_82955_civil-kettle-7397.vercel.app.jpeg": "/static/media/Web capture_13-5-2023_82955_civil-kettle-7397.vercel.app.a27ead38b69330ac87c9.jpeg",
-    "static/media/Vinay_Digarse_Resume.pdf": "/static/media/Vinay_Digarse_Resume.3d6992e6477a027326d7.pdf",
+    "static/media/Vinay_Digarse_Resume.pdf": "/static/media/Vinay_Digarse_Resume.7949f79a436e07719010.pdf",
     "static/media/Web capture_13-5-2023_91339_apnamall.vercel.app.jpeg": "/static/media/Web capture_13-5-2023_91339_apnamall.vercel.app.d58ce73daf1503d62258.jpeg",
     "static/media/Web capture_13-5-2023_9335_warm-gingersnap-4fca94.netlify.app.jpeg": "/static/media/Web capture_13-5-2023_9335_warm-gingersnap-4fca94.netlify.app.58ad3bc0e83ec78bb3b8.jpeg",
     "static/media/IMG_20221029_122923qww-removebg-preview (1).png": "/static/media/IMG_20221029_122923qww-removebg-preview (1).48b7c1e025d36212ca7c.png",
     "index.html": "/index.html",
-    "main.136a1c3b.css.map": "/static/css/main.136a1c3b.css.map",
-    "main.4a7ef066.js.map": "/static/js/main.4a7ef066.js.map"
+    "main.a754f685.css.map": "/static/css/main.a754f685.css.map",
+    "main.674314bc.js.map": "/static/js/main.674314bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.136a1c3b.css",
-    "static/js/main.4a7ef066.js"
+    "static/css/main.a754f685.css",
+    "static/js/main.674314bc.js"
   ]
 }
